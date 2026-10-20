@@ -2,7 +2,7 @@
 
 Fantasy football for the South African Premier Soccer League (PSL). Players pick a squad of real PSL footballers and score points from how those footballers perform each match week.
 
-> **This is a showcase repository for a product in active development.** The source code, scoring values and pricing model are private. This page shows how the system is engineered. **Code walkthroughs are available on request for interviews.**
+**This is a showcase repository for a product in active development.** The source code, scoring values and pricing model are private. This page shows how the system is engineered. **Code walkthroughs are available on request for interviews.**
 
 ## Why it exists
 
